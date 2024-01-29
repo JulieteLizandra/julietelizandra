@@ -7,8 +7,8 @@
 <! --
 <div>
 <a href="https://github.com/JulieteLizandra/julietelizandra/">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?JulieteLizandra/julietelizandra&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?JulieteLizandra/julietelizandra&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?julietelizandra&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?julietelizandra&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 -->
 
@@ -27,5 +27,5 @@
 - 😄 Pronomes: ela/dela
 - ⚡ Curiosidade: Gosto de pedalar, estudo música em horários livres e amo animais
 
-![Snake animation](https://github.com/JulieteLizandra/julietelizandra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/julietelizandra/blob/output/github-contribution-grid-snake.svg)
 
