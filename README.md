@@ -1,7 +1,7 @@
 # Olá, me chamo Juliete, mas todos me chamam de Jully ! 
 ## Bem vindo ao meu perfil GitHub 👋
 
-<!--
+
 **JulieteLizandra/julietelizandra** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece em seu perfil GitHub.
 
 <div>
@@ -23,4 +23,4 @@
 - 😄 Pronomes: ela/dela
 - ⚡ Curiosidade: Gosto de pedalar, estudo música em horários livres e amo animais
 ![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
--->
+
