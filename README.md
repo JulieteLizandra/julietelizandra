@@ -2,8 +2,6 @@
 ## Bem vindo ao meu perfil GitHub 👋
 
 
-**JulieteLizandra/julietelizandra** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece em seu perfil GitHub.
-
 
 <div>
 <a href="https://github.com/JullyLizandra/">
