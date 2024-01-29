@@ -3,12 +3,13 @@
 
 
 **JulieteLizandra/julietelizandra** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece em seu perfil GitHub.
-
+<! --
 <div>
 <a href="https://github.com/JulieteLizandra/julietelizandra/">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?JulieteLizandra/julietelizandra&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?JulieteLizandra/julietelizandra&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+-->
 
 - 🔭 Atualmente estou trabalhando em uma empresa de Gestão de TI em João Pessoa - PB
 - 🌱 Atualmente estou aprendendo HTML, CSS, JavaScript, UX/UI Desing, etc.
